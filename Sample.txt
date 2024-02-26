@@ -1,0 +1,13 @@
+Here is a revised version with corrected grammar:
+
+Do we have any idea about the complexity level of applications?
+
+Do all applications need to be tested, or will they follow a process/mechanism for testing?
+
+Is there any way to understand the technologies of each app?
+
+Do we have an existing repository from the incumbent vendor, such as existing scripts?
+
+Are we preparing a PT strategy/approach for each release?
+
+Who are all the stakeholders with whom we need to collaborate?
